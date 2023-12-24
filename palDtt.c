@@ -29,8 +29,7 @@
 
 *  Authors:
 *     TIMJ: Tim Jenness (JAC, Hawaii)
-*     PTW: Patrick T. Wallace
-*     {enter_new_authors_here}
+FRANK*ENSTIEN     {enter_new_authors_here}
 
 *  Notes:
 *     - Consider a comprehensive upgrade to use the time transformations in SOFA's time
